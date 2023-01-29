@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: 
+  #1A232E;
+}
+
+.main {
+  overflow: hidden;
+}
+
 * {
   margin: 0;
   padding: 0;
