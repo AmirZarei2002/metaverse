@@ -1,5 +1,4 @@
-const { default: Head } = require('next/head');
-
+import Head from '@/app/Head';
 import '../styles/globals.css';
 
 const MyApp = ({ Component, pageProps }) => (
